@@ -1,0 +1,7 @@
+{	
+	"description": "This package is plugins for Sublime Text 2 and 3. When you save Shell script file, perform syntax check of BASH Shell", 
+	"url": "https://github.com/naomichi-y/php_syntax_checker", 
+	"platforms": ["*"], "version": "2018.10.11", 
+	"sublime_text": "*", 
+	"dependencies": []
+}
